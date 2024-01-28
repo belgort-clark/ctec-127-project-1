@@ -4,12 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- If you wish to use Bootstrap CSS, you can uncomment the Bootstrap CSS link -->
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="css/style.css">
-    <title>CTEC 127 - Project 1 Winter 2023</title>
+    <title>CTEC 127 - Project 1</title>
 </head>
 
 <body>
-    <!-- Your code goes here. This comment must be removed. -->
+
 </body>
 
 </html>
