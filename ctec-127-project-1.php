@@ -7,7 +7,7 @@
     <!-- If you wish to use Bootstrap CSS, you can uncomment the Bootstrap CSS link -->
     <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="css/style.css">
-    <title>CTEC 127 - Project 1</title>
+    <title>CTEC 127 - Project 1 (2025)</title>
 </head>
 
 <body>
